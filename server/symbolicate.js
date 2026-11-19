@@ -1,5 +1,5 @@
 /**
- * symbolicate.js —— sourcemap 符号化核心
+ * sourcemap 符号化核心
  *
  * 把压缩后的调用栈还原成「源码文件:行:列 + 原始函数名」。
  *

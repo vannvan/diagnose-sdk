@@ -1,5 +1,5 @@
 /**
- * self-test.mjs —— 符号化链路自测
+ * 符号化链路自测
  *
  * 不依赖任何测试框架，直接 `node server/self-test.mjs` 运行。
  * 目的是验证：sourcemap 能被读出来、帧能被正确解析、位置能正确还原、

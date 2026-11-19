@@ -1,5 +1,5 @@
 /**
- * index.js —— collector 服务（内网部署）
+ * collector 服务（内网部署）
  *
  * 提供两个接口：
  *   POST /report       接收前端上报，按 appId + 日期落 JSONL；可选就地符号化

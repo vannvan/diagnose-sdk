@@ -1,13 +1,10 @@
 {
   "name": "diagnose-sdk",
   "version": "1.0.0",
-  "description": "私有化部署场景下的**前端阻断性故障采集 SDK**。",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "私有化部署场景下的**前端阻断性故障采集 SDK**。只做一件事：**记录“用户在这一步走不下去了”的证据**，本地留存到 IndexedDB，可选上报，也可导出诊断包带回。",
+  "main": "src/index.js",
   "keywords": [],
   "author": "vannvan",
-  "license": "ISC",
+  "license": "MIT",
   "type": "commonjs"
 }
