@@ -1,0 +1,13 @@
+{
+  "name": "diagnose-sdk",
+  "version": "1.0.0",
+  "description": "私有化部署场景下的**前端阻断性故障采集 SDK**。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "vannvan",
+  "license": "ISC",
+  "type": "commonjs"
+}
